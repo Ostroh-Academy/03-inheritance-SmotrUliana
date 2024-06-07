@@ -7,3 +7,6 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму ієрархії класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+
+![uml diagram_3](https://github.com/Ostroh-Academy/03-inheritance-SmotrUliana/assets/128807783/91e58e5c-0280-45d4-bca9-df42313226a6)
